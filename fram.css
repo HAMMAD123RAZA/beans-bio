@@ -1,0 +1,25 @@
+.fonts {
+    /* font-family: 'EB Garamond', serif;  */
+    font-family: 'Fascinate', cursive;
+    /* font-family: 'Moon Dance', cursive; */
+         /* font-family: 'Dancing Script', cursive;  */
+
+}
+
+#dance{
+     /* font-family: 'Dancing Script', cursive;  */
+     /* font-family: 'Fascinate', cursive; */
+     font-family: 'EB Garamond', serif; 
+
+
+}
+
+#nav:hover {
+    background-color: darkgray;
+    border-radius: 32px;
+    transition: all 0.4s;
+}
+#heading{
+    text-decoration: underline;
+    text-underline-position: below;
+}
